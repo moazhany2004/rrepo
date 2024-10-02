@@ -1,0 +1,94 @@
+
+.Navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+.Navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Navbar a:hover {
+  background-color: #4f2b2b;
+}
+body {
+        
+    background-color: #eee4e4;
+}
+.container {
+    
+    background: #fff;
+    padding: 20px;
+  
+ 
+}
+
+
+.faq h2 {
+    margin-bottom: 20px;
+ 
+    cursor: pointer;
+    background: #007BFF;
+    color: #fff;
+    padding: 10px;
+  
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.form-container {
+    width: 50%;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.form-group input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10PX;
+    
+    
+}
+div img { width: 280px;}
+div li a { color: #c51111;}
